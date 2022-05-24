@@ -148,6 +148,3 @@ def init(filename):
     # == Finish ==
     t2 = time.perf_counter()
     log.info(f'Finished in {t2-t1} seconds')
-
-
-init("test2.MOV")
