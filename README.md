@@ -3,6 +3,8 @@
 
 ![](screen.png)
 
+Used in this project: [SkinDetection](https://github.com/mik3sw/SkinDetection)
+
 ## (Very) Quick start
 You have to modify this function in ```multy.py```:
 
