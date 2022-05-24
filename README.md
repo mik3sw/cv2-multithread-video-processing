@@ -1,6 +1,8 @@
 
 # OpenCV Multithread video processing
 
+![](screen.png)
+
 ## (Very) Quick start
 You have to modify this function in ```multy.py```:
 
