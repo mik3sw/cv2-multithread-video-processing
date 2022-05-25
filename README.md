@@ -20,7 +20,7 @@ def do_sth(frame):
     bar.update(task, advance=1)
     time.sleep(0.1)
 ```
-By default i used a cv function thath flip the frame.
+By default I used a cv function that flip the frame.
 
 * ```frame[0]``` is a cv2 image 
 * ```my_function()``` must return a cv2 image
